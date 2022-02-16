@@ -1,4 +1,4 @@
-ARG FRM='finalsolarflare/pihole-base'
+ARG FRM='finalsolarflare/pihole-base-plus'
 ARG TAG='latest'
 
 FROM ${FRM}:${TAG}
